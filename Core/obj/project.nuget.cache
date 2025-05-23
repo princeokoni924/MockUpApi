@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4ZDFw2Wxa0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OKONIZE\\source\\repos\\Mockup_Test\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OKONIZE\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\OKONIZE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\OKONIZE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
